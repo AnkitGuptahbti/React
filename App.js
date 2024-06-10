@@ -1,5 +1,8 @@
-const heading = document.createElement("h1");
-heading.innerHTML = "Helloworld";
-heading.id = "heading";
-const root = document.getElementById("root");
-root.appendChild(heading);
+const heading = React.createElement(
+  "h1",
+  { id: "heading", xyz: "abc" },
+  "Helloworld"
+);
+// console.log(heading) its basically object
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(heading); //replace the content of this root element only
