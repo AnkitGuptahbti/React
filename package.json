@@ -1,0 +1,16 @@
+{
+  "name": "react-scratch",
+  "version": "1.0.0",
+  "description": "Getting form basic",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": " git+(https://github.com/AnkitGuptahbti/React.git)"
+  },
+  "keywords": [],
+  "author": "Ankit Gupta",
+  "license": "ISC"
+}
