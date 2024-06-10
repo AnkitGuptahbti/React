@@ -1,6 +1,6 @@
 const resList = [
   {
-    data: {
+    info: {
       id: "686198",
       name: "Chinese Wok",
       cloudinaryImageId: "e0839ff574213e6f35b3899ebf1fc597",
@@ -50,7 +50,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "ITEMS",
         subHeader: "AT ₹149",
       },
@@ -64,7 +64,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -73,7 +73,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "320564",
       name: "Wow! Momo",
       cloudinaryImageId: "64fd45fd9f44c1737bc446e470bed666",
@@ -142,7 +142,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "50% OFF",
         subHeader: "UPTO ₹90",
       },
@@ -156,7 +156,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -165,7 +165,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "334231",
       name: "Pizza Hut",
       cloudinaryImageId: "2b4f62d606d1b2bfba9ba9e5386fabb7",
@@ -215,7 +215,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "50% OFF",
         subHeader: "UPTO ₹90",
       },
@@ -229,7 +229,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -238,7 +238,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "77700",
       name: "R.S Bhojnalaya",
       cloudinaryImageId: "wniumg41joijmp5bscis",
@@ -289,7 +289,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "₹125 OFF",
         subHeader: "ABOVE ₹199",
         discountTag: "FLAT DEAL",
@@ -304,7 +304,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -313,7 +313,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "686199",
       name: "Big Bowl",
       cloudinaryImageId: "c99751d54e4e1847186c62b3309c1327",
@@ -347,7 +347,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "ITEMS",
         subHeader: "AT ₹179",
       },
@@ -361,7 +361,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -370,7 +370,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "69588",
       name: "Food Carnival",
       cloudinaryImageId: "wa8a7irojeoame4wv9yi",
@@ -428,7 +428,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "₹125 OFF",
         subHeader: "ABOVE ₹199",
         discountTag: "FLAT DEAL",
@@ -443,7 +443,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -452,7 +452,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "257141",
       name: "Baskin Robbins - Ice Cream Desserts",
       cloudinaryImageId: "85ccae4e3576f9330af102c46ca85395",
@@ -503,7 +503,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "50% OFF",
         subHeader: "UPTO ₹90",
       },
@@ -517,7 +517,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -526,7 +526,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "359803",
       name: "Grameen Kulfi",
       cloudinaryImageId: "g3azphzmvsn8ykuagunt",
@@ -577,7 +577,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "50% OFF",
         subHeader: "UPTO ₹100",
       },
@@ -591,7 +591,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -600,7 +600,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "99787",
       name: "New Pizza of Kings",
       cloudinaryImageId: "cgymeujmwe7y0nflf9vh",
@@ -635,7 +635,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "₹125 OFF",
         subHeader: "ABOVE ₹199",
         discountTag: "FLAT DEAL",
@@ -650,7 +650,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -659,7 +659,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "861545",
       name: "Pastas By Pizza Hut",
       cloudinaryImageId:
@@ -694,7 +694,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "40% OFF",
         subHeader: "UPTO ₹80",
       },
@@ -709,7 +709,7 @@ const resList = [
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
       isNewlyOnboarded: true,
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -718,7 +718,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "423034",
       name: "Nirula's",
       cloudinaryImageId: "rpq80lizwokqbl889trq",
@@ -753,7 +753,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "50% OFF",
         subHeader: "UPTO ₹100",
       },
@@ -767,7 +767,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -776,7 +776,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "85785",
       name: "Havmor Havfunn Ice Cream",
       cloudinaryImageId: "49845b494b1e637209b7bd1c7ca184ad",
@@ -826,7 +826,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "₹100 OFF",
         subHeader: "ABOVE ₹299",
         discountTag: "FLAT DEAL",
@@ -841,7 +841,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -850,7 +850,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "686200",
       name: "The Momo Co.",
       cloudinaryImageId: "9668a5819fcba35364dcff30d5f5cfbb",
@@ -884,7 +884,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "50% OFF",
         subHeader: "UPTO ₹90",
       },
@@ -898,7 +898,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -907,7 +907,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "370991",
       name: "Gourmet Ice Cream Cakes by Baskin Robbins",
       cloudinaryImageId: "d679c532ca07a6f3fd6d89d603861412",
@@ -942,7 +942,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "50% OFF",
         subHeader: "UPTO ₹90",
       },
@@ -956,7 +956,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -965,7 +965,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "500850",
       name: "Vadilal Ice Creams",
       cloudinaryImageId: "y7gidhlolat7d3tajnb6",
@@ -1000,7 +1000,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "10% OFF",
         subHeader: "UPTO ₹40",
       },
@@ -1014,7 +1014,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -1023,7 +1023,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "575224",
       name: "Veg Daawat by Behrouz",
       cloudinaryImageId: "2b579171cefc545ce6479e21c0016798",
@@ -1081,7 +1081,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "50% OFF",
         subHeader: "UPTO ₹90",
       },
@@ -1095,7 +1095,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -1104,7 +1104,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "361089",
       name: "Pure Veg Meals by LunchBox",
       cloudinaryImageId: "b2fmc8ydgvlbeooefv1s",
@@ -1154,7 +1154,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "50% OFF",
         subHeader: "UPTO ₹90",
       },
@@ -1168,7 +1168,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -1177,7 +1177,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "566484",
       name: "Faasos' Signature Wraps & Rolls",
       cloudinaryImageId: "c583ca6ce40b426797a78ae2ac91f2ec",
@@ -1217,7 +1217,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "50% OFF",
         subHeader: "UPTO ₹90",
       },
@@ -1231,7 +1231,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -1240,7 +1240,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "340465",
       name: "La Pino'z Pizza",
       cloudinaryImageId: "m1y45zbvi4uk1bz4cymd",
@@ -1274,7 +1274,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "60% OFF",
         subHeader: "UPTO ₹120",
       },
@@ -1288,7 +1288,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
@@ -1297,7 +1297,7 @@ const resList = [
     },
   },
   {
-    data: {
+    info: {
       id: "271047",
       name: "Kwality Walls Frozen Dessert and Ice Cream Shop",
       cloudinaryImageId: "gypl1jvmtpg980twu5e1",
@@ -1358,7 +1358,7 @@ const resList = [
           textExtendedBadges: {},
         },
       },
-      aggregatedDiscountdataV3: {
+      aggregatedDiscountinfoV3: {
         header: "50% OFF",
         subHeader: "UPTO ₹90",
       },
@@ -1372,7 +1372,7 @@ const resList = [
       },
       reviewsSummary: {},
       displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationdata: {},
+      restaurantOfferPresentationinfo: {},
     },
     analytics: {},
     cta: {
