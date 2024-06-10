@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div id="root">
+      <h1 id="heading">Helloworld1</h1>
+      <!-- which data is coming by javascriipt -->
+    </div>
+    <script>
+      const heading = document.createElement("h1");
+      heading.innerHTML = "Helloworld";
+      heading.id = "heading1"; // Setting the first id
+      heading.classList.add("class1", "class2"); // Adding two classes
+      heading.setAttribute("data-id2", "heading2"); // Setting the second id using data attribute
+      heading.setAttribute("data-id3", "heading3"); // Setting the third id using data attribute
+      const root = document.getElementById("root");
+      root.appendChild(heading);
+    </script>
+
+    <!-- <script src="App.js"></script> -->
+  </body>
+</html>
