@@ -7,7 +7,7 @@ const RestaurantMenu = () => {
 
   const resInfo = useRestaurantMenu(resId);
 
-  if (resInfo === null) return <Shimmer />;
+  if (resInfo === null) return <h1 className=" font-bold">Loading...</h1>;
 
   const { name, cuisines, costForTwoMessage } =
     resInfo?.cards[2]?.card?.card?.info;
